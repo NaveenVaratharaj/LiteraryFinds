@@ -1,4 +1,4 @@
-# Library Management Page - DevRev Task
+# Library Management Page
 
 This is a web application named "Literary Finds" which is used to find various books with many information! 🚀
 
@@ -15,11 +15,11 @@ This is a web application named "Literary Finds" which is used to find various b
 # Live Hosted Link
 Link : https://naveenvaratharaj.github.io/DevRev-VanillaJS/
 
-# Installation steps:
-1. Download or clone this repository
-2. Run index.html file on you local machine
-<br />
-<br />
+![image](https://user-images.githubusercontent.com/88475979/235147285-2c60fd21-91f5-4dc5-bc47-08cd1520f6fc.png)
+
+![image](https://user-images.githubusercontent.com/88475979/235147337-f33980e2-ff02-49d5-aed3-ac7ba1d9d0a1.png)
+
+
 
 Thank you!
 
